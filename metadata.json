@@ -1,0 +1,6 @@
+{
+  "name": "DeX ClipVault",
+  "description": "A Samsung DeX optimized floating clipboard manager with persistent local history, auto-capture, favorites, and tags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
